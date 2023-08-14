@@ -15,7 +15,6 @@ A AUTOMATIZE é especializada em criar soluções personalizadas para automatiza
 
 - `docs/`: Documentos detalhados sobre nossa abordagem e exemplos de aplicação.
 - `tools/`: Informações sobre as ferramentas e tecnologias que utilizamos.
-- `contact.md`: Detalhes de contato para informações adicionais.
 
 ## Como Contribuir
 
